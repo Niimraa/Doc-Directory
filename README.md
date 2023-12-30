@@ -26,6 +26,11 @@ To set doctor's availability.
 ![pSide_Filters](https://github.com/Niimraa/Doc-Directory/assets/133609979/5c7b7286-a811-4203-927b-8e01d01bf968)
 
 
+## Methodology
+
+This website was made by by a collaborative team of five individuals, including myself and four of my classmates, as part of a group project. The development process was driven by the agile methodology, emphasizing adaptability, collaboration, and iterative progress. The diverse skills and expertise of our team members have been crucial in bringing this project to life. Each team member contributed to various aspects, such as front-end and back-end development, design, and project management. Throughout the development process, we utilized Git for version control. We used the the agile methodology, This approach allowed us to adapt to evolving requirements, prioritize features efficiently, and deliver a functional and user-friendly website.
+
+
 ## Installation
 
 To set up the project, run the following commands for both the backend and frontend in different terminals:
@@ -35,12 +40,6 @@ To set up the project, run the following commands for both the backend and front
 npm install
 # Start the  backend and frontend server
 npm start
-
-
-## Methodology
-
-This website was made by by a collaborative team of five individuals, including myself and four of my classmates, as part of a group project. The development process was driven by the agile methodology, emphasizing adaptability, collaboration, and iterative progress. The diverse skills and expertise of our team members have been crucial in bringing this project to life. Each team member contributed to various aspects, such as front-end and back-end development, design, and project management. Throughout the development process, we utilized Git for version control. We used the the agile methodology, This approach allowed us to adapt to evolving requirements, prioritize features efficiently, and deliver a functional and user-friendly website.
-
 
 
 
