@@ -32,6 +32,10 @@ To set up the project, run the following commands for both the backend and front
 ```bash
 # Backend installation
 npm install
-
 # Frontend installation
 npm install
+# Start the backend server
+npm start
+# Start the frontend server
+npm start
+
