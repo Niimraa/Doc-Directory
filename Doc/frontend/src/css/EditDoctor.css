@@ -1,0 +1,43 @@
+/* EditDoctor.css */
+
+/* Styles for the main container */
+.EditDoctorContainer {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+/* Styles for the header */
+.EditDoctorHeader {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Styles for input fields */
+.EditDoctorInput {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Styles for the save button */
+.EditDoctorSaveButton {
+  background-color: #0074d9;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styles for the cancel link */
+.EditDoctorCancelLink {
+  text-decoration: none;
+  color: #333;
+  margin-left: 10px;
+}

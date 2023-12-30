@@ -1,0 +1,30 @@
+.review{
+    border:thin solid black;
+    margin-bottom: 0.2%;
+}
+.timeRating{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.rating{
+    margin-right: 5%;
+}
+.reviewText{
+    border:thin solid black;
+}
+.submitText{
+    width: 500px;
+    padding: 10px 10px;
+    margin:  0px 10px;
+    border: 1.5px solid #ddd;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.revButton{
+    margin-right: 2px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border:thin solid black;
+    background-color: gainsboro;
+}

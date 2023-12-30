@@ -1,0 +1,66 @@
+/* Doctor.css */
+.navbar {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.dashboard {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px; 
+  height: 650px; 
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.sidebar button {
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.sidebar button:hover {
+  background-color: #0056b3;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.main-content p {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.main-content a {
+  color: #007BFF;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.main-content a:hover {
+  text-decoration: underline;
+}

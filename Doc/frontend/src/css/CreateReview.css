@@ -1,0 +1,15 @@
+.revIn{
+    margin-top: 0.5%;
+    border:thin solid black;
+    margin-bottom: 0.2%;
+    display: flex;
+}
+.rating{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: -4%;
+    /* justify-content: space-between; */
+}
+.text{
+    word-wrap: 80;
+}

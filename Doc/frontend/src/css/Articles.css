@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#tabs {
+  display: flex;
+  justify-content: space-around;
+  background-color: #040040;
+  padding: 10px;
+  font-weight: bold;
+}
+
+#submission-tab,
+#articles-tab {
+  cursor: pointer;
+  color: #fff;
+}
+
+#submission-tab:hover,
+#articles-tab:hover {
+  text-decoration: underline;
+}
+
+#submission-content,
+#articles-content {
+  display: none;
+}
+
+#submission-content {
+  margin: 20px;
+  text-align: center;
+}
+
+#titleInput,
+#articleInput {
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+#submit-button {
+  background-color: #040040;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#submit-button:hover {
+  background-color: #040040;
+}
+
+.article-box {
+  border: 1px solid #040040;
+  background-color: #cde0eb;
+  padding: 10px;
+  margin: 10px auto;
+  max-width: 600px;
+  word-wrap: break-word;
+}
+
+.article-title {
+  font-size: 30px;
+}
+
+.articleList {
+  max-width: 768px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.power-buttons {
+  padding: 0.2rem 0.5rem;
+  background-color: black;
+  color: white;
+  margin-left: 0.3rem;
+}

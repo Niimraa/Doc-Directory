@@ -1,0 +1,30 @@
+
+
+.schedulerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    block-size: auto;
+    
+}
+.schedulerContainer ScheduleSelector__Wrapper-sc-1ke4ka2-0 dVIVMB ScheduleSelector__Grid-sc-1ke4ka2-1 eerDxB h2{
+    font-size: 10px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.schedulerContainer button{
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: black;
+    padding: 10px 10px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.schedulerContainer button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }

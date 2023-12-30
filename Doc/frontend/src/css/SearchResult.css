@@ -1,0 +1,23 @@
+
+.search-result-item {
+  padding: 10px 20px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+
+}
+
+.search-result-item:hover {
+  background-color: #efefef;
+  color: black;
+}
+
+
+.result-name {
+/* font-size: smaller; */
+font-weight: bold;
+}
+
+.result-speciality {
+font-size: smaller; 
+
+}

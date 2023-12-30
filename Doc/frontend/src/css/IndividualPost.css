@@ -1,0 +1,57 @@
+/* .doctor-name {
+    padding: 0.2rem;
+    background-color: rgba(133, 133, 133, 0.1);
+    text-align: center;
+  }
+
+
+   .individual-post__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin: 0.5rem 0rem;
+  } */
+
+
+  /* .individual-post__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin: 0.5rem 0rem;
+  } 
+
+
+    .doctor-name {
+      padding: 0.2rem;
+      background-color: rgba(133, 133, 133, 0.1);
+      text-align: center;
+    }
+     */
+
+
+     .individual-post__container {
+      margin-bottom: 20px;
+    }
+    
+    .post-box {
+      border: 1px solid #a88787; /* Add a border around the post box */
+      padding: 20px;
+      border-radius: 8px; /* Add rounded corners for a softer look */
+      background-color: #cdaeae; /* Set a background color */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+    }
+    
+    .post-box h4 {
+      color: #333; /* Set the title color */
+    }
+    
+    .doctor-name {
+      color: #007bff; /* Set the author name color */
+      margin-top: 10px;
+    }

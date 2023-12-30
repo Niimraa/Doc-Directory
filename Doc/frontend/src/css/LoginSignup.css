@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 10vh; */
+    /* background-color: #f4f4f4; */
+    margin-top: 100px;
+  }
+  
+  .action_header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .underline {
+    width: 50px;
+    height: 2px;
+    background-color: #333;
+    margin: 10px auto;
+  }
+  
+  .submit-container {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .submit {
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d83316;
+    color: #fff;
+  }
+  
+  .gray {
+    background-color: #ccc;
+  }
+  
+  .inputs {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  
+  .input {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .newsubmit {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* button { */
+    /* cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: solid black;
+    border-radius: 5px;
+    background-color: rgb(220, 21, 31); */
+    /* color: #fff; */
+  /* } */
+  
+  .forgot-password {
+    text-align: center;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .forgot-password span {
+    color: #4CAF50;
+    cursor: pointer;
+  }
+  
+  /* Add more styling as needed */
+  
