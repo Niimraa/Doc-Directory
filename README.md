@@ -4,12 +4,10 @@ Doc-Directory is a user-friendly platform designed to simplify the process of fi
 
 
 ## Patient Side
-
-For patients, the platform offers a user-friendly experience with features designed to empower their healthcare decisions. Patients can select and booking appointment with doctors based on years of experience, specialty, and ratings. Advanced filtering options enable patients to find doctors that meet their specific criteria. Patients also have the ability to rate doctors based on their experiences, contributing to the transparency of the platform. The platform eliminates the need for patients to call in and wait on hold for appointments, providing a seamless booking experience.
+For patients, the platform offers a user-friendly experience with features designed to empower their healthcare decisions. the journey starts with signing up or logging in. The platform offers a search functionality that allows patients to find specific doctors by name or filter by specialties, years of experience, and gender. Booking an appointment is simplified—patients select a doctor, enter the date, time, and reason for the appointment, and click "book now." Patients can manage their profiles, update information, and access an overview of their appointment history. The platform also encourages patient engagement by allowing them to post and view reviews, with options to edit or delete their reviews conveniently from their profile or the doctor's page. Overall, DocDirectory streamlines the process of connecting patients with healthcare professionals.
 
 ## Doctor Side
-
-On the Doctor side, the platform provides a range of functionalities to enhance their practice. Doctors can control the visibility of their profiles, write and publish articles, manage appointments, access patient medical history, and create detailed notes about each appointment.
+On the Doctor side, the platform provides a range of functionalities to enhance their practice. The process begins with signing up or logging in. Once logged in, doctors can manage their profiles by accessing the "My Profile" section, where they can view and edit their details. They can set their availability for appointments and manage their appointment history, including adding notes and reviewing patients' medical history. Doctors can also create, edit, and delete articles to educate patients and access reviews in the "My Reviews" section.
 
 ## Goal
 The goal of the project is to make the healthcare management process more accessible for patients and transparent for both patients and healthcare providers. This is achieved through features like appointment notes history.
@@ -33,15 +31,18 @@ This website was made by by a collaborative team of five individuals, including 
 
 ## Installation
 
-### Start the Backend Server
 
    ```bash
+//Start the Backend Server
 //Move to the backend directory by entering the following command in the terminal:
    cd ./backend
    npm install
    npm start
 
 //Launch the Frontend
+cd ./frontend
+npm install
+npm start
 
 
 
