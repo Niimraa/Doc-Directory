@@ -23,6 +23,9 @@ To set doctor's availability.
 
 ![pSide_Filters](https://github.com/Niimraa/Doc-Directory/assets/133609979/5c7b7286-a811-4203-927b-8e01d01bf968)
 
+## Testing
+
+For DocDirectory, Unit Tests were the primary testing method, simulating real user input and assessing features' standard and edge cases. Success was measured by a 90% pass rate and code coverage, balancing quality assurance without hindering project completion. Additionally, a checklist ensured code and user experience quality, emphasizing maintainability and usability. Group members inspected each other's work, offering diverse perspectives to enhance objectivity and prevent bias in the evaluation process, ultimately contributing to the robustness and user-friendliness of the product.
 
 ## Methodology
 
