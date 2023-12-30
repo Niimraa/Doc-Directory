@@ -33,13 +33,15 @@ This website was made by by a collaborative team of five individuals, including 
 
 ## Installation
 
-To set up the project, run the following commands for both the backend and frontend in different terminals:
+### Start the Backend Server
 
-```bash
-# Frontend and Backend installation
-npm install
-# Start the  backend and frontend server
-npm start
+   ```bash
+//Move to the backend directory by entering the following command in the terminal:
+   cd ./backend
+   npm install
+   npm start
+
+//Launch the Frontend
 
 
 
