@@ -29,7 +29,7 @@ For DocDirectory, Unit Tests were the primary testing method, simulating real us
 
 ## Methodology
 
-This website was made by by a collaborative team of five individuals, including myself and 3 of my classmates. The development process was driven by the agile methodology, emphasizing adaptability, collaboration, and iterative progress. Each team member contributed to various aspects, such as front-end and back-end development, design, and project management. Throughout the development process, we utilized Git version control. 
+This website was made by by a collaborative team of five individuals, including myself and 4 of my classmates. The development process was driven by the agile methodology, emphasizing adaptability, collaboration, and iterative progress. Each team member contributed to various aspects, such as front-end and back-end development, design, and project management. Throughout the development process, we utilized Git version control. 
 
 
 ## Installation
