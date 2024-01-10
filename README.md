@@ -10,7 +10,7 @@ For patients, the platform offers a user-friendly experience with features desig
 On the Doctor side, the platform provides a range of functionalities to enhance their practice. The process begins with signing up or logging in. Once logged in, doctors can manage their profiles by accessing the "My Profile" section, where they can view and edit their details. They can set their availability for appointments and manage their appointment history, including adding notes and reviewing patients' medical history. Doctors can also create, edit, and delete articles to educate patients and access reviews in the "My Reviews" section.
 
 ## Goal
-The goal of the project is to make the healthcare management process more accessible for patients and transparent for both patients and healthcare providers. This is achieved through features like appointment notes history.
+The goal of the project is to make the healthcare management process more accessible for patients and transparent for both patients and healthcare providers.
 
 ## Website Visuals
 Here are a few pictures showcasing the website:
