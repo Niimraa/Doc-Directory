@@ -20,7 +20,7 @@ Here are a few pictures showcasing the website:
 To set doctor's availability.
 ![Avalibility](https://github.com/Niimraa/Doc-Directory/assets/133609979/7a482f1b-4b39-4666-8590-275438a716fb)
 
-
+To find, filter, and view ratings for a doctor.
 ![pSide_Filters](https://github.com/Niimraa/Doc-Directory/assets/133609979/5c7b7286-a811-4203-927b-8e01d01bf968)
 
 ## Testing
