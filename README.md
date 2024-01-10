@@ -37,7 +37,6 @@ This website was made by by a collaborative team of five individuals, including 
 
    ```bash
 //Start the Backend Server
-//Move to the backend directory by entering the following command in the terminal:
    cd ./backend
    npm install
    npm start
