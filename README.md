@@ -26,11 +26,6 @@ To find, filter, and view ratings for a doctor.
 
 For DocDirectory, Unit Tests were the primary testing method, simulating real user input and assessing features' standard and edge cases. Success was measured by a 90% pass rate and code coverage, balancing quality assurance without hindering project completion. Additionally, a checklist ensured code and user experience quality, emphasizing maintainability and usability. Group members inspected each other's work, offering diverse perspectives to enhance objectivity and prevent bias in the evaluation process, ultimately contributing to the robustness and user-friendliness of the product.
 
-## Methodology
-
-This website was made by by a collaborative team of five individuals, including myself and 4 of my classmates. The development process was driven by the agile methodology, emphasizing adaptability, collaboration, and iterative progress. Each team member contributed to various aspects, such as front-end and back-end development, design, and project management. Throughout the development process, we utilized Git version control. 
-
-
 ## Installation
 
 
