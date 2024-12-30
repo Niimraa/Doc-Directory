@@ -24,7 +24,7 @@ To find, filter, and view ratings for a doctor.
 
 ## Testing
 
-For DocDirectory, Unit Tests were the primary testing method, simulating real user input and assessing features' standard and edge cases. Success was measured by a 90% pass rate and code coverage, balancing quality assurance without hindering project completion. Additionally, a checklist ensured code and user experience quality, emphasizing maintainability and usability. Group members inspected each other's work, offering diverse perspectives to enhance objectivity and prevent bias in the evaluation process, ultimately contributing to the robustness and user-friendliness of the product.
+For DocDirectory, Unit Tests were the primary testing method, simulating real user input and assessing features' standard and edge cases. Success was measured by a 90% pass rate and code coverage, balancing quality assurance without hindering project completion. Additionally, a checklist ensured code and user experience quality, emphasizing maintainability and usability.
 
 ## Installation
 
